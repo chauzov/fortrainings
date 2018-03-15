@@ -4,11 +4,10 @@
 def func():
     print "hello student!"
 
-func2()
-
-
 def func2():
     print "good bye student!"
 
-
 func()
+# the finction must be called after declaration
+func2()
+
